@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "google-fitness": {
+      "command": "python",
+      "args": ["path/to/your/fitness_mcp_server.py"]
+    }
+  }
+}
