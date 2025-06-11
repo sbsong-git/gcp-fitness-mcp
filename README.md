@@ -9,5 +9,5 @@
 용하여 지능적인 분석과 맞춤형 조언을 줄 수 있는 개인 건강 코치를 고용 할 수 있으면 어떨까요?
 
 
-이번 글에서는 Anthropic의 **Model Context Protocol(MCP)**를 활용하여 Google Fitness API 데이터를 Claude AI와 연동하는 방법을 소개할려고 합니다. 복잡한 서버 구축 없이도 개인의 건강 데이터를 AI와 자연스럽게 대화하며 분석할 수 있는 나만의 다이어트와 건강 관리
+이번 글에서는 Anthropic의 Model Context Protocol(MCP)를 활용하여 Google Fitness API 데이터를 Claude AI와 연동하는 방법을 소개할려고 합니다. 복잡한 서버 구축 없이도 개인의 건강 데이터를 AI와 자연스럽게 대화하며 분석할 수 있는 나만의 다이어트와 건강 관리
 를 도와주는 코치를 만드는법을 함께 살펴보겠습니다.
